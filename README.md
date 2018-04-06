@@ -18,4 +18,4 @@ $ hadoop jar /usr/hdp/2.6.3.0-235/hadoop-mapreduce/hadoop-streaming-2.7.3.2.6.3.
 
 To check the results of the output file, use the below command
 
-$ hadoop fs -cat /user/golivm/outfile/*
+$ hadoop fs -cat /user/madhyasa/outfile/*
